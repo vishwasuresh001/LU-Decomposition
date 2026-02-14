@@ -22,8 +22,6 @@ Developed by: Vishwa.s
 
 RegisterNumber: 255012636
 */
-
-```
 import numpy as np
 from scipy.linalg import lu
 A=np.array(eval(input()))
