@@ -44,7 +44,7 @@ Developed by: vishwa.s
 
 RegisterNumber: 25012636
 
-
+```
 # To print X matrix (solution to the equations)
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
