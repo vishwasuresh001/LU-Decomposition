@@ -22,7 +22,7 @@ Developed by: Vishwa.s
 
 RegisterNumber: 255012636
 */
-```
+
 ```
 import numpy as np
 from scipy.linalg import lu
@@ -39,12 +39,11 @@ Developed by: Vishwa.s
 RegisterNumber: 25012636
 */
 ```
-```
-'''Program to solve a matrix using LU decomposition.
+Program to solve a matrix using LU decomposition.
 Developed by: vishwa.s
 
 RegisterNumber: 25012636
-'''
+
 
 # To print X matrix (solution to the equations)
 import numpy as np
@@ -57,9 +56,9 @@ print(x)
 ```
 
 ## Output:
-<img width="798" height="761" alt="image" src="https://github.com/user-attachments/assets/d613daa4-f571-474b-aaeb-061c8a9bdd1a" />
+<img width="863" height="752" alt="image" src="https://github.com/user-attachments/assets/c1a3c378-69ab-41ab-b038-e4137ba3e811" />
 
-<img width="828" height="609" alt="image" src="https://github.com/user-attachments/assets/d98e1d75-573a-412e-b5a4-3d8c6dd8ff65" />
+<img width="781" height="599" alt="image" src="https://github.com/user-attachments/assets/5cb4e6c7-9f7e-4219-8576-01b060b0d162" />
 
 
 ## Result:
