@@ -35,6 +35,8 @@ x=lu_solve((lu,pivot),B)
 print(x)
 ```
 Program to solve a matrix using LU decomposition.
+
+
 Developed by: vishwa.s
 RegisterNumber: 25012636
 
